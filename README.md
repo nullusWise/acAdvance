@@ -96,6 +96,3 @@ False positives can happen — treat warnings as a signal to investigate, not as
 
 ---
 
-<p align="center">
-  Made by <b>Haze Fiere</b>
-</p>
